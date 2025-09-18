@@ -1,2 +1,2 @@
-# Introduction-to-FreeRTOS
-Repositório dedicado à apresentação do FreeRTOS para a disciplina de Sistemas em Tempo Real
+# Uma Introdução ao FreeRTOS
+> Material desenvolvido por Mateus Figueiredo e Mateus Pincho para a disciplina Sistemas em Tempo Real.
