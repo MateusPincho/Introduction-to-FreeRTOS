@@ -14,5 +14,5 @@ Parte II - Configuração do Ambiente de Desenvolvimento
 
 Parte III - Tutoriais Práticos de Utilização do FreeRTOS
 
-5. [Gerenciamento de Tarefas]()
-6. [Semáforos para Sincronização e Acesso a Recursos]()
+5. [Gerenciamento de Tarefas](https://github.com/MateusPincho/Introduction-to-FreeRTOS/wiki/Cap-04-%E2%80%90-Gerenciamento-de-Tarefas)
+6. [Semáforos para Sincronização e Acesso a Recursos](https://github.com/MateusPincho/Introduction-to-FreeRTOS/wiki/Cap-05-%E2%80%90-Sem%C3%A1foros-para-Sincroniza%C3%A7%C3%A3o-e-Acesso-a-Recursos)
